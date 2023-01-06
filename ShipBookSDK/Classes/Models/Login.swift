@@ -5,9 +5,8 @@
 //  Created by Elisha Sterngold on 05/11/2017.
 //  Copyright © 2018 ShipBook Ltd. All rights reserved.
 //
-#if canImport(UIKit)
+#if canImport(UIKit) && canImport(AdSupport)
 import Foundation
-#if canImport(AdSupport)
 import AdSupport
 import UIKit
 
