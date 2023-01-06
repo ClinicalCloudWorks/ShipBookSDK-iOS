@@ -7,6 +7,7 @@
 //
 #if canImport(UIKit)
 import Foundation
+#if canImport(AdSupport)
 import AdSupport
 import UIKit
 
